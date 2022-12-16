@@ -36,8 +36,7 @@ there were many features I tried and giving the model more layers and neurons to
 Although, my accuracry did not grow by the end of the second attempt, but it also did not fall. 
 Model Results Below: 
 
-![Attempt 2 Three layer model Accuracy Results ASC module 19 Challenge](https://user-images.githubusercontent.com/109875421/208032147-a459c427-4b6f-4646-b629-
-3c5dbb8dd825.png)
+![Attempt 2 Three layer model Accuracy Results ASC module 19 Challenge](https://user-images.githubusercontent.com/109875421/208035473-d2b10309-8424-4117-b2ee-fdc714f2dcdd.png)
 
 With Relu giving me a similar readings, I thought I should change the activation function in this third and final model. I changed the avtivation function to tanh to 
 see if this would help approaching how the model is working through the data. I also removed the third layer from the third attempt to see if maybe "less is more", but 
@@ -48,8 +47,7 @@ I did have the highest nodes for this last attempt to create a model with 75% ac
 However as you can see below, again there was no change in my total accuracy and I did not reach an accuracy of 75%, but kept an accuracy of roughly 73% with every 
 permutation of this neural network model. 
 
-![Attempt 3 Dual Layer Model Accuracy Results ASC Module 19 Challenge](https://user-images.githubusercontent.com/109875421/208033537-ba0a547e-51fa-47a4-8fbb-
-6d98b1f9a5ce.png)
+![Attempt 3 Dual Layer Model Accuracy Results ASC Module 19 Challenge](https://user-images.githubusercontent.com/109875421/208035420-4424961c-2b24-4b58-8acd-1cf71b2ef355.png)
 
 # Summary
 Overall, an accuracy score of 73% is better than a coin flip and could give this charity a better idea of which requests require more time and consideration. There are 
